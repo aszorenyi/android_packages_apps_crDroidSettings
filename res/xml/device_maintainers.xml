@@ -161,10 +161,10 @@
             android:selectable="false" />
 
         <Preference
-            android:id="@+id/device_google_marlin"
+            android:id="@+id/device_google_redfin"
             android:icon="@drawable/phone_tint"
-            android:title="@string/device_google_marlin"
-            android:summary="@string/device_google_marlin_summary"
+            android:title="@string/device_google_redfin"
+            android:summary="@string/device_google_redfin_summary"
             android:selectable="false" />
     </PreferenceCategory>
 
