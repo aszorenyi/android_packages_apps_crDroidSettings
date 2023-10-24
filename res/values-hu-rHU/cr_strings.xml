@@ -310,6 +310,9 @@
     <string name="smart_pulldown_none">semmilyen</string>
     <string name="smart_pulldown_dismissable">elvethető</string>
     <string name="smart_pulldown_ongoing">folyamatban lévő</string>
+    <!-- Status bar - Smart pulldown lite -->
+    <string name="smart_pulldown_lite_title">Intelligens legördítés</string>
+    <string name="smart_pulldown_lite_summary">Gyorsbeállítások megnyitása, ha ott nincs elvethető értesítés</string>
     <!-- Tap to sleep on status bar -->
     <string name="lockscreen_doubletap_sleep_title">Dupla érintésre alvómód</string>
     <string name="lockscreen_doubletap_sleep_summary">Zárképernyő dupla érintésére a készülék alvó módba kerül</string>

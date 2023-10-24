@@ -223,14 +223,12 @@
             android:entryValues="@array/status_bar_quick_qs_pulldown_values"
             android:defaultValue="0" />
 
-        <!--<com.crdroid.settings.preferences.SystemSettingListPreference
+        <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_smart_pulldown"
             android:icon="@drawable/ic_arrow_down"
-            android:title="@string/smart_pulldown_title"
-            android:entries="@array/smart_pulldown_entries"
-            android:entryValues="@array/smart_pulldown_values"
-            android:defaultValue="0" />-->
-
+            android:title="@string/smart_pulldown_lite_title"
+            android:summary="@string/smart_pulldown_lite_summary"
+            android:defaultValue="false" />
     </PreferenceCategory>
 
 </PreferenceScreen>
