@@ -566,7 +566,8 @@
     <!-- Device Info screen. crDroid legal. -->
     <string name="crdroid_license_title">Політика конфіденційності crDroid</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_show_brightness_slider_title">Повзунок яскравості</string>
+    <string name="qs_brightness_slider_category">Повзунок яскравості</string>
+    <string name="qs_show_brightness_slider_title">Коли показувати</string>
     <string name="qs_show_brightness_slider_never">Завжди приховувати</string>
     <string name="qs_show_brightness_slider_expanded">Показати, коли розгорнуто</string>
     <string name="qs_show_brightness_slider_always">Завжди показувати</string>
@@ -665,7 +666,7 @@
     <string name="status_sleep_time">Глибокий сон</string>
     <!-- In-call feedback -->
     <string name="incall_vibration_category">Параметри вібрації під час дзвінка</string>
-    <string name="incall_vibrate_connect_title">Вибрація при з\'єднанні</string>
+    <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
     <string name="incall_vibrate_call_wait_title">Вібрувати при паралельному виклику</string>
     <string name="incall_vibrate_disconnect_title">Вібрація при роз\'єднанні</string>
     <!-- Blink flashlight for incoming calls -->
