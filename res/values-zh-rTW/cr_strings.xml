@@ -250,10 +250,10 @@
     <string name="unlock_quick_unlock_control_title">快速解除鎖定</string>
     <string name="unlock_quick_unlock_control_summary">當正確輸入 PIN 碼／密碼時自動解鎖</string>
     <!-- Doze settings -->
-    <string name="doze_display_title">環境顯示</string>
-    <string name="doze_display_summary">設定環境顯示</string>
+    <string name="doze_display_title">微光螢幕</string>
+    <string name="doze_display_summary">設定微光螢幕</string>
     <string name="doze_additional_settings_title">附加設定</string>
-    <string name="doze_additional_settings_summary">自定義設備特定的環境顯示設置</string>
+    <string name="doze_additional_settings_summary">自定義裝置的微光螢幕設定</string>
     <string name="doze_sensor_title">以感測器為主</string>
     <string name="raise_to_wake_title">喚醒</string>
     <string name="raise_to_wake_summary">喚醒設備而不是發出通知</string>
@@ -267,19 +267,19 @@
     <string name="pocket_summary">從口袋裏拿出時顯示通知</string>
     <string name="doze_vibrate">振動</string>
     <string name="doze_vibrate_summary">通知時震動的持續時間</string>
-    <string name="sensor_warning_message">有關感測器的設定可能會受到硬體相容性的限制。為「環境顯示」啟用感測器可能會增加功耗。</string>
+    <string name="sensor_warning_message">「微光螢幕」相關感測器受到硬體相容性的限制。啟用「微光螢幕」可能會增加功耗。</string>
     <!-- Edge light -->
     <string name="edge_light_title">側光</string>
     <string name="edge_light_summary">通知閃爍時也使螢幕側邊閃爍</string>
     <string name="edge_light_always_trigger_on_pulse_title">一律觸發</string>
-    <string name="edge_light_always_trigger_on_pulse_summary">在使用環境顯示時一律顯示側光</string>
+    <string name="edge_light_always_trigger_on_pulse_summary">在使用微光螢幕時一律顯示側光</string>
     <string name="edge_light_repeat_animation_title">重複閃爍動畫</string>
     <string name="edge_light_repeat_animation_summary_on">重複閃爍動畫直到逾時</string>
     <string name="edge_light_repeat_animation_summary_off">緩慢的閃爍一次</string>
     <string name="edge_light_color_mode_title">側光顏色</string>
     <!-- Ambient Ticker -->
     <string name="pulse_on_new_tracks_title">音樂提示訊息</string>
-    <string name="pulse_on_new_tracks_summary">切換曲目時在AOD上顯示</string>
+    <string name="pulse_on_new_tracks_summary">切換曲目時於微光螢幕上顯示訊息</string>
     <!-- Status bar - icon blocklist -->
     <string name="status_bar_icons_title">狀態欄圖示</string>
     <string name="status_bar_icons_summary">控制顯示哪些狀態列圖示</string>
@@ -385,7 +385,7 @@
     <string name="status_bar_battery_percent_hidden">隱藏</string>
     <string name="status_bar_battery_percent_text_inside">在圖標裡面</string>
     <string name="status_bar_battery_percent_text_next_right">在圖示右側</string>
-    <string name="status_bar_battery_percent_text_next_left">圖示旁（左側)</string>
+    <string name="status_bar_battery_percent_text_next_left">在圖示左側</string>
     <string name="status_bar_battery_text_charging_title">充電時顯示電量百分比</string>
     <string name="status_bar_battery_text_charging_summary">充電時始終顯示電量百分比</string>
     <!-- Status bar - Battery Bar -->
@@ -648,7 +648,7 @@
     <string name="notification_heads_up_timeout_summary">彈出通知的顯示時間</string>
     <!-- Less boring heads up -->
     <string name="less_boring_heads_up_title">不感興趣</string>
-    <string name="less_boring_heads_up_summary">僅顯示警報，撥號程式和訊息應用程式的彈出通知</string>
+    <string name="less_boring_heads_up_summary">僅顯示時鐘、電話和訊息應用程式的彈出通知</string>
     <!-- Notifications while screen on -->
     <string name="notification_sound_vib_screen_on_title">煩人通知</string>
     <string name="notification_sound_vib_screen_on_summary">在螢幕開啟時為通知播放音效和震動</string>
@@ -940,8 +940,8 @@
     <string name="qs_tile_layout_summary">在圖示下方顯示標題</string>
     <string name="qs_columns_portrait_title">列（垂直）</string>
     <string name="qs_columns_landscape_title">列（橫向）</string>
-    <string name="qqs_rows_portrait_title">Quick QS Rows (portrait)</string>
-    <string name="qqs_rows_landscape_title">Quick QS Rows (landscape)</string>
+    <string name="qqs_rows_portrait_title">快速快速設定行數 (縱向)</string>
+    <string name="qqs_rows_landscape_title">快速快速設定行數 (橫向)</string>
     <!-- Statusbar Clock background chip -->
     <string name="statusbar_clock_chip_title">時鐘背景</string>
     <string name="statusbar_clock_chip_summary">在時鐘後方顯示背景</string>
@@ -1096,18 +1096,18 @@
     <string name="kg_large_clock_text_size_title">雙行時鐘字體大小</string>
     <!-- QS Tiles Style -->
     <string name="qs_tile_ui_style_title">快速設定圖塊風格</string>
-    <string name="qs_tile_ui_style_a11_circle">Circle tiles</string>
-    <string name="qs_tile_ui_style_a11_square">Square tiles</string>
-    <string name="qs_tile_ui_style_a11_mix">Circle &amp; Square tiles</string>
+    <string name="qs_tile_ui_style_a11_circle">圓形圖塊</string>
+    <string name="qs_tile_ui_style_a11_square">正方形圖塊</string>
+    <string name="qs_tile_ui_style_a11_mix">圓形 &amp; 方形圖塊</string>
     <!-- QS Panel Style -->
     <string name="qs_panel_style_title">快速設定面板風格</string>
-    <string name="qs_panel_style_outline">Outline</string>
-    <string name="qs_panel_style_two_tone">Two-Tone accent</string>
-    <string name="qs_panel_style_color_pop">Color pop</string>
-    <string name="qs_panel_style_shaded">Shaded</string>
-    <string name="qs_panel_style_cyberpunk">Cyberpunk</string>
-    <string name="qs_panel_style_neumorph">Neumorph</string>
-    <string name="qs_panel_style_reflected">Reflected</string>
-    <string name="qs_panel_style_surround">Surround</string>
-    <string name="qs_panel_style_thin">ThinLine</string>
+    <string name="qs_panel_style_outline">邊框</string>
+    <string name="qs_panel_style_two_tone">雙色主題顏色</string>
+    <string name="qs_panel_style_color_pop">流行色</string>
+    <string name="qs_panel_style_shaded">陰影</string>
+    <string name="qs_panel_style_cyberpunk">賽博朋克</string>
+    <string name="qs_panel_style_neumorph">新擬物風格</string>
+    <string name="qs_panel_style_reflected">反射的</string>
+    <string name="qs_panel_style_surround">環繞</string>
+    <string name="qs_panel_style_thin">細線</string>
 </resources>
