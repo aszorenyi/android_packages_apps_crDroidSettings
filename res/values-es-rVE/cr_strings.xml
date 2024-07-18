@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Donar para apoyar un mejor desarrollo</string>
     <string name="donate_team_title">equipo crDroid</string>
     <string name="donate_team_summary">Haz una donación para apoyar el alojamiento del servidor, el tiempo de actividad del sitio y la administración general</string>
-    <!-- The Drill -->
-    <string name="drill_title">El taladro</string>
-    <string name="drill_summary">¿Has encontrado un error? ¿Tienes un problema?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Actualizaciones</string>
     <string name="crdroid_update_summary">Buscar y descargar la última actualización</string>
@@ -272,7 +269,7 @@ Mantén presionado para establecer</string>
     <string name="sensor_warning_message">Las configuraciones basadas en los sensores están sujetas a la compatibilidad del hardware. La activación de los sensores para la pantalla ambiental puede aumentar el consumo de la batería.</string>
     <!-- Edge light -->
     <string name="edge_light_title">Iluminación de los bordes</string>
-    <string name="edge_light_summary">Ilumina los bordes laterales de la pantalla en el pulso de notificación</string>
+    <string name="edge_light_summary">Ilumina los bordes de la pantalla al recibir una notificación de pulso</string>
     <string name="edge_light_always_trigger_on_pulse_title">Siempre activar el pulso</string>
     <string name="edge_light_always_trigger_on_pulse_summary">Mostrar la iluminación de los bordes en la pantalla ambiente o no además de para las notificaciones</string>
     <string name="edge_light_repeat_animation_title">Animación de repetir</string>
@@ -1061,7 +1058,7 @@ Mantén presionado para establecer</string>
     <string name="lockscreen_shortcut_camera">Cámara</string>
     <string name="lockscreen_shortcut_remote">Control de Google TV</string>
     <string name="lockscreen_shortcut_dnd">No molestar</string>
-    <string name="lockscreen_shortcut_none">Ninguno</string>
+    <string name="lockscreen_shortcut_none">Ninguna</string>
     <string name="lockscreen_shortcut_enforce_title">Forzar accesos directos</string>
     <string name="lockscreen_shortcut_enforce_summary">No mostrar el siguiente atajo disponible si el acceso directo elegido no está disponible</string>
     <!-- App lock -->

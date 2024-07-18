@@ -55,7 +55,7 @@
     <string name="accent_color">アクセントカラー（デフォルト）</string>
     <string name="notification_color">通知の色</string>
     <string name="wallpaper_color">壁紙の色</string>
-    <string name="custom_color">カスタムカラー</string>
+    <string name="custom_color">カスタム色</string>
     <!-- Changelog -->
     <string name="changelog_crdroid_title">最近の更新履歴</string>
     <string name="changelog_crdroid_summary">インストールされている ROM の更新内容を確認します</string>
@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">さらなる開発を支援するために寄付をお願いします</string>
     <string name="donate_team_title">crDroid チーム</string>
     <string name="donate_team_summary">寄付でホスティングサーバーや全体的な管理を助けてください</string>
-    <!-- The Drill -->
-    <string name="drill_title">正しいやり方</string>
-    <string name="drill_summary">バグを見つけましたか？問題に遭遇しましたか？</string>
     <!-- OTA -->
     <string name="crdroid_update_title">アップデート</string>
     <string name="crdroid_update_summary">OTA アップデートの有無とお使いのデバイス向けのリンクをチェックします</string>
@@ -270,7 +267,7 @@
     <string name="sensor_warning_message">センサーベースの設定はハードウェアの互換性に依存します。センサーを有効化するとバッテリー消費が増える可能性があります</string>
     <!-- Edge light -->
     <string name="edge_light_title">エッジライト</string>
-    <string name="edge_light_summary">通知パルスで画面の両端をライトアップします</string>
+    <string name="edge_light_summary">通知の点滅で画面の両端をライトアップします</string>
     <string name="edge_light_always_trigger_on_pulse_title">パルスで常に起動</string>
     <string name="edge_light_always_trigger_on_pulse_summary">通知だけではなく、アンビエント画面が表示されればいつでもエッジライトを表示します</string>
     <string name="edge_light_repeat_animation_title">アニメーションの繰り返し</string>
@@ -1011,7 +1008,7 @@
     <string name="add_sensor_block_package_title">センサーを無効化するアプリを追加</string>
     <string name="add_sensor_block_package_summary">これらのアプリで移動検出、加速度、線形加速度センサーを無効化します</string>
     <!-- Vibration patterns -->
-    <string name="vibration_pattern_title">着信音の振動のパターン</string>
+    <string name="vibration_pattern_title">着信音の振動パターン</string>
     <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
     <string name="pattern_dzzz_da">dzzz-da</string>
     <string name="pattern_mm_mm_mm">mm-mm-mm</string>

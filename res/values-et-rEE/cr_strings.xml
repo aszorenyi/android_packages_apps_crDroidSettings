@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Anneta edasise arenduse toetamiseks</string>
     <string name="donate_team_title">crDroidi meeskond</string>
     <string name="donate_team_summary">Anneta, et toetada serveri majutust, veebilehe ülalpidamist ning üleüldist haldust</string>
-    <!-- The Drill -->
-    <string name="drill_title">Nagu ikka</string>
-    <string name="drill_summary">Leidsid vea? Tekkis probleem?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Uuendused</string>
     <string name="crdroid_update_summary">Kontrolli ja laadi alla viimatine uuendus</string>
@@ -271,7 +268,7 @@
     <string name="sensor_warning_message">Anduritel põhinevad sätted sõltuvad riistvara ühilduvusest. Säästliku ekraani jaoks andurite lubamine võib energiatarbimist suurendada.</string>
     <!-- Edge light -->
     <string name="edge_light_title">Servavalgus</string>
-    <string name="edge_light_summary">Valgusta ekraani servasid teavituse saabumisel</string>
+    <string name="edge_light_summary">Valgusta ekraani servasid teavituse pulseerimisel</string>
     <string name="edge_light_always_trigger_on_pulse_title">Kuva pulseerimisel alati</string>
     <string name="edge_light_always_trigger_on_pulse_summary">Kuvab servavalgust mistahes ajal, kui ambientne kuva on nähtav - mitte ainult teavituste puhul</string>
     <string name="edge_light_repeat_animation_title">Korda animatsiooni</string>
@@ -467,7 +464,7 @@
     <!-- Pulse music visualizer -->
     <string name="pulse_help_policy_notice_title">Pulse kohta</string>
     <string name="pulse_help_policy_notice_summary">Pulse on hiilgav heli graafiline ekvalaiser, kui seadmes mängib muusika</string>
-    <string name="pulse_settings">Pulseerimine</string>
+    <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">Heli graafiline ekvalaiser navigeerimisribal ja lukustuskuval</string>
     <string name="show_navbar_pulse_title">Navigeerimisriba Pulse</string>
     <string name="show_navbar_pulse_summary">Heli graafiline ekvalaiser navigeerimisribal</string>

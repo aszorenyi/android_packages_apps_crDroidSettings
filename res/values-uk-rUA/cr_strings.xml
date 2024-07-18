@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Пожертвуйте для підтримки подальшого розвитку</string>
     <string name="donate_team_title">crDroid команда</string>
     <string name="donate_team_summary">Пожертвувати на підтримку хостингу, сайту та розвитку проекту</string>
-    <!-- The Drill -->
-    <string name="drill_title">Від розробників</string>
-    <string name="drill_summary">Знайшли помилку? Зіткнувся з проблемою?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Оновлення</string>
     <string name="crdroid_update_summary">Перевірка та завантаження останнього оновлення</string>
@@ -1017,7 +1014,7 @@
     <string name="add_sensor_block_package_title">Додати додатки для блокування датчиків</string>
     <string name="add_sensor_block_package_summary">Для цих додатків буде заблоковано датчики руху, прискорення, лінійного прискорення</string>
     <!-- Vibration patterns -->
-    <string name="vibration_pattern_title">Шаблон вібрації під час викликів</string>
+    <string name="vibration_pattern_title">Інтенсивність вібрації мелодії</string>
     <string name="pattern_dzzz_dzzz">дззз-дззз</string>
     <string name="pattern_dzzz_da">дззз-да</string>
     <string name="pattern_mm_mm_mm">мм-мм-мм</string>
@@ -1064,7 +1061,7 @@
     <string name="lockscreen_shortcut_camera">Камера</string>
     <string name="lockscreen_shortcut_remote">Пульт Google TV</string>
     <string name="lockscreen_shortcut_dnd">Не турбувати</string>
-    <string name="lockscreen_shortcut_none">Жодної</string>
+    <string name="lockscreen_shortcut_none">Не відображати</string>
     <string name="lockscreen_shortcut_enforce_title">Застосувати примусові ярлики</string>
     <string name="lockscreen_shortcut_enforce_summary">Не відображати наступний доступний ярлик, якщо обраний ярлик недоступний</string>
     <!-- App lock -->

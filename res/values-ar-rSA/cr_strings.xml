@@ -35,7 +35,7 @@
     <string name="dialog_color_picker">اختيار الألوان</string>
     <string name="press_color_to_apply">اضغط على اللون أدناه للتطبيق</string>
     <string name="hex">كود Hex:</string>
-    <string name="hex_hint">اللون الاسود</string>
+    <string name="hex_hint">#ff000000</string>
     <string name="set">تعيين</string>
     <string name="color_default">الإفتراضي</string>
     <!-- General strings -->
@@ -55,7 +55,7 @@
     <string name="accent_color">强调色（默认）</string>
     <string name="notification_color">通知颜色</string>
     <string name="wallpaper_color">壁纸颜色</string>
-    <string name="custom_color">تخصيص اللون</string>
+    <string name="custom_color">لون مخصص</string>
     <!-- Changelog -->
     <string name="changelog_crdroid_title">سجل التغييرات الحالي</string>
     <string name="changelog_crdroid_summary">عرض التغييرات في الروم المثبت</string>
@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">تبرع لدعم المزيد من التطوير</string>
     <string name="donate_team_title">فريق crDroid</string>
     <string name="donate_team_summary">التبرع لدعم استضافة الخوادم، وموقع العمل الإضافي والإدارة العامة</string>
-    <!-- The Drill -->
-    <string name="drill_title">الطريقة لابلاغ عن مشكلة</string>
-    <string name="drill_summary">وجدت خطأ؟ وقعت في مشكلة؟</string>
     <!-- OTA -->
     <string name="crdroid_update_title">التحديثات</string>
     <string name="crdroid_update_summary">التحقق من أحدث تحديث وتحميله</string>
@@ -275,7 +272,7 @@
     <string name="sensor_warning_message">تخضع الإعدادات المستندة إلى أجهزة الاستشعار لتوافق القطع الداخلية للجهاز. قد يؤدي تمكين الشاشة الدائمة إلى زيادة استنزاف الطاقة.</string>
     <!-- Edge light -->
     <string name="edge_light_title">إضاءة الحواف</string>
-    <string name="edge_light_summary">تضيء الحواف الجانبية للشاشة على نبض الإعلام</string>
+    <string name="edge_light_summary">إضاءة الحواف الجانبية للشاشة عند تلقي الإشعارات</string>
     <string name="edge_light_always_trigger_on_pulse_title">فرض تشغيل خطوط فيض الصوت</string>
     <string name="edge_light_always_trigger_on_pulse_summary">ما سيظهر عندما يتم عرض الشاشة الدائمة للإشعارات أو غير ذلك</string>
     <string name="edge_light_repeat_animation_title">تكرار الرسوم</string>
@@ -568,8 +565,8 @@
     <!-- Device Info screen. crDroid legal. -->
     <string name="crdroid_license_title">فريق crDroid</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_slider_category">شريط تمرير السطوع</string>
-    <string name="qs_show_brightness_slider_title">When to show</string>
+    <string name="qs_brightness_slider_category">شريط السطوع</string>
+    <string name="qs_show_brightness_slider_title"></string>
     <string name="qs_show_brightness_slider_never">لا تُظهر أبداً</string>
     <string name="qs_show_brightness_slider_expanded">إظهار عند التوسيع</string>
     <string name="qs_show_brightness_slider_always">إظهار دائمًا</string>
@@ -1027,7 +1024,7 @@
     <string name="pattern_mm_mm_mm">مم-مم-مم</string>
     <string name="pattern_da_da_dzzz">دا-دا-دززز</string>
     <string name="pattern_da_dzzz_da">دا-دززز-دا</string>
-    <string name="pattern_custom">تخصيص</string>
+    <string name="pattern_custom">مخصص</string>
     <string name="custom_vibration_pattern_title">استخدم النمط المخصص</string>
     <string name="custom_vibration_pattern_summary">تحديد نمط إهتزاز مخصص</string>
     <!-- Per-channel vibration pattern -->
@@ -1068,7 +1065,7 @@
     <string name="lockscreen_shortcut_camera">الكاميرا</string>
     <string name="lockscreen_shortcut_remote">Google TV Remote</string>
     <string name="lockscreen_shortcut_dnd">وضع عدم الإزعاج</string>
-    <string name="lockscreen_shortcut_none">بلا</string>
+    <string name="lockscreen_shortcut_none">لا شيء</string>
     <string name="lockscreen_shortcut_enforce_title">فرض الإختصار</string>
     <string name="lockscreen_shortcut_enforce_summary">لا تظهر الإختصار الثاني إن لم يظهر الإختصار الأول</string>
     <!-- App lock -->
@@ -1113,7 +1110,7 @@
     <string name="qs_tile_ui_style_title">نمط مربعات الإعدادات السريعة</string>
     <string name="qs_tile_ui_style_a11_circle">بلاطة دائرية</string>
     <string name="qs_tile_ui_style_a11_square">بلاطة مربعة</string>
-    <string name="qs_tile_ui_style_a11_mix">Circle &amp; Square tiles</string>
+    <string name="qs_tile_ui_style_a11_mix"></string>
     <!-- QS Panel Style -->
     <string name="qs_panel_style_title">نمط الإعدادات السريعة للوحة</string>
     <string name="qs_panel_style_outline">التخطيط</string>
@@ -1121,8 +1118,8 @@
     <string name="qs_panel_style_color_pop">لون منبثق</string>
     <string name="qs_panel_style_shaded">مظلل</string>
     <string name="qs_panel_style_cyberpunk">سايبربانك</string>
-    <string name="qs_panel_style_neumorph">Neumorph</string>
-    <string name="qs_panel_style_reflected">Reflected</string>
-    <string name="qs_panel_style_surround">Surround</string>
-    <string name="qs_panel_style_thin">ThinLine</string>
+    <string name="qs_panel_style_neumorph">عربي</string>
+    <string name="qs_panel_style_reflected"></string>
+    <string name="qs_panel_style_surround">مُحيطي</string>
+    <string name="qs_panel_style_thin">خيط رفيع</string>
 </resources>

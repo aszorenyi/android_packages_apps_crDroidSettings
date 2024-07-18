@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Donează pentru a sprijini dezvoltarea ulterioară</string>
     <string name="donate_team_title">Echipa crDroid</string>
     <string name="donate_team_summary">Donați pentru a sprijini serverul de găzduire, site-ul uptime și managementul general</string>
-    <!-- The Drill -->
-    <string name="drill_title">Exercițiul</string>
-    <string name="drill_summary">Ai găsit un bug? Ai intrat într-o problemă?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Actualizări</string>
     <string name="crdroid_update_summary">Verifică și descarcă ultima actualizare</string>
@@ -1015,7 +1012,7 @@
     <string name="add_sensor_block_package_title">Adăugați aplicații pentru blocare senzor</string>
     <string name="add_sensor_block_package_summary">Mișcare semnificativă, accelerometru, senzori de accelerare liniară vor fi blocați pentru aceste aplicații</string>
     <!-- Vibration patterns -->
-    <string name="vibration_pattern_title">Model vibrație ton de sonerie</string>
+    <string name="vibration_pattern_title">Model vibrație sunet</string>
     <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
     <string name="pattern_dzzz_da">dzzz-da</string>
     <string name="pattern_mm_mm_mm">mm-mm-mm</string>

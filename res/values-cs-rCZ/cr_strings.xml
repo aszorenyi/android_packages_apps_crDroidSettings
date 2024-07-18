@@ -35,7 +35,7 @@
     <string name="dialog_color_picker">Výběr barvy</string>
     <string name="press_color_to_apply">Klepněte na barvu, kterou chcete použít</string>
     <string name="hex">Hex:</string>
-    <string name="hex_hint">#ffabeced</string>
+    <string name="hex_hint">#ff000000</string>
     <string name="set">Nastavit</string>
     <string name="color_default">Výchozí</string>
     <!-- General strings -->
@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Přispějte a\u00a0podpořte tak další vývoj</string>
     <string name="donate_team_title">Tým crDroidu</string>
     <string name="donate_team_summary">Přispějte na podporu hostingového serveru, provoz a\u00a0celkovou správu webu</string>
-    <!-- The Drill -->
-    <string name="drill_title">Výcvik</string>
-    <string name="drill_summary">Našli jste chybu? Narazili jste na problém?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Aktualizace</string>
     <string name="crdroid_update_summary">Zkontrolovat aktualizaci OTA a\u00a0odkazy pro zařízení</string>
@@ -1064,7 +1061,7 @@
     <string name="lockscreen_shortcut_camera">Fotoaparát</string>
     <string name="lockscreen_shortcut_remote">Google TV Remote</string>
     <string name="lockscreen_shortcut_dnd">Režim „Nerušit“</string>
-    <string name="lockscreen_shortcut_none">Žádná</string>
+    <string name="lockscreen_shortcut_none">Žádný</string>
     <string name="lockscreen_shortcut_enforce_title">Vynutit zkratky</string>
     <string name="lockscreen_shortcut_enforce_summary">Nezobrazovat další dostupnou zkratku, pokud vybraná zkratka není k\u00a0dispozici</string>
     <!-- App lock -->

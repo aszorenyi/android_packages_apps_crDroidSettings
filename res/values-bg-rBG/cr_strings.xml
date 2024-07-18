@@ -86,9 +86,6 @@
     <string name="donate_crdroid_summary">Направете дарение, за да подкрепите разработването за напред</string>
     <string name="donate_team_title">crDroid екип</string>
     <string name="donate_team_summary">Дарете в подкрепа на хостинг сървър, поддръжка на сайта и цялостното управление</string>
-    <!-- The Drill -->
-    <string name="drill_title">Бормашината</string>
-    <string name="drill_summary">Намерихте бъг? Попаднахте на проблем?</string>
     <!-- OTA -->
     <string name="crdroid_update_title">Актуализации</string>
     <string name="crdroid_update_summary">Проверете за актуализация на ОТА и връзки за вашето устройство</string>
@@ -271,7 +268,7 @@
     <string name="sensor_warning_message">Настройките, базирани на сензори, са предмет на хардуерната съвместимост. Активирането на сензори за околен дисплей може да увеличи изразходването на енергия.</string>
     <!-- Edge light -->
     <string name="edge_light_title">Edge light</string>
-    <string name="edge_light_summary">Light up the side edges of the screen on notification pulse</string>
+    <string name="edge_light_summary">Осветяване на страничните ръбове на екрана при уведомяване</string>
     <string name="edge_light_always_trigger_on_pulse_title">Always trigger on pulse</string>
     <string name="edge_light_always_trigger_on_pulse_summary">Whether to show edge light whenever ambient display is shown and not just for notifications</string>
     <string name="edge_light_repeat_animation_title">Repeat animation</string>
@@ -1013,7 +1010,7 @@
     <string name="add_sensor_block_package_title">Изберете приложения, за които сензорите са блокирани</string>
     <string name="add_sensor_block_package_summary">Акселерометър, датчик движение и линейно ускорение ще бъдат блокирани за избраните приложения</string>
     <!-- Vibration patterns -->
-    <string name="vibration_pattern_title">Ringtone vibration pattern</string>
+    <string name="vibration_pattern_title">Вибрация за звънене</string>
     <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
     <string name="pattern_dzzz_da">dzzz-da</string>
     <string name="pattern_mm_mm_mm">mm-mm-mm</string>
@@ -1060,7 +1057,7 @@
     <string name="lockscreen_shortcut_camera">Камера</string>
     <string name="lockscreen_shortcut_remote">Google TV Remote</string>
     <string name="lockscreen_shortcut_dnd">DND</string>
-    <string name="lockscreen_shortcut_none">Без</string>
+    <string name="lockscreen_shortcut_none">Няма</string>
     <string name="lockscreen_shortcut_enforce_title">Enforce shortcuts</string>
     <string name="lockscreen_shortcut_enforce_summary">Do not display next available shortcut if chosen shortcut is not available</string>
     <!-- App lock -->
