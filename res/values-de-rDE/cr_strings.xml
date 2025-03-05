@@ -911,7 +911,7 @@
     <string name="qs_footer_datausage_title">Datennutzung</string>
     <string name="qs_footer_datausage_summary">In der Fußzeile der Schnelleinstellungen die Datennutzung anzeigen</string>
     <!-- QS Tiles animation  -->
-    <string name="qs_tile_animation_title">Schnelleinstellungs Kacheln</string>
+    <string name="qs_tile_animation_title">Kachelanimation</string>
     <string name="qs_tile_animation_style_title">Animationsstil</string>
     <string name="qs_tile_animation_duration_title">Animationsdauer</string>
     <string name="qs_tile_animation_interpolator_title">Interpolation der Kachelanimation</string>
@@ -993,7 +993,7 @@
     <string name="status_bar_logo_style_robot">Roboter</string>
     <string name="status_bar_logo_style_ironman">Iron Man</string>
     <string name="status_bar_logo_style_captain_america">Captain America</string>
-    <string name="status_bar_logo_style_flash">Blitz</string>
+    <string name="status_bar_logo_style_flash">Flash</string>
     <string name="status_bar_logo_style_tux">Tux</string>
     <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
     <string name="status_bar_logo_style_mint">Linux Mint</string>
@@ -1031,6 +1031,9 @@ Die in Apps festgelegten Muster haben Vorrang</string>
     <!-- Netflix Spoof -->
     <string name="netflix_spoof_title">Netflix-Spoofing</string>
     <string name="netflix_spoof_summary">Netflix ein anderes Gerätemodell vortäuschen</string>
+    <!-- Google Play Integrity Spoof -->
+    <string name="pi_spoof_title">Spoofing für Google Play Integrity</string>
+    <string name="pi_spoof_summary">Google Play Integrity ein anderes Gerätemodell vortäuschen</string>
     <!-- Captive portal -->
     <string name="captive_portal_title">Verbindungen prüfen</string>
     <string name="captive_portal_summary">Feststellen, ob das Gerät eine Verbindung zum Internet herstellen kann, indem es Google kontaktiert. Wird auch zur Erkennung unverschlüsselter Portale verwendet.</string>

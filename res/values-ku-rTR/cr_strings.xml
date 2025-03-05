@@ -52,9 +52,9 @@
     <string name="choose_app">Choose app</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
-    <string name="accent_color">Accent color (Default)</string>
-    <string name="notification_color">Notification color</string>
-    <string name="wallpaper_color">Wallpaper color</string>
+    <string name="accent_color">ڕەنگی لاوەکی (بنەڕەت)</string>
+    <string name="notification_color">ڕەنگی ئاگانامە</string>
+    <string name="wallpaper_color">ڕەنگی ڕوونما</string>
     <string name="custom_color">Custom color</string>
     <!-- Changelog -->
     <string name="changelog_crdroid_title">Current changelog</string>
@@ -80,7 +80,7 @@
     <string name="crdroid_translate_title">Translations</string>
     <string name="crdroid_translate_summary">Help with localisation of ROM in your language!</string>
     <string name="crdroid_sponsor_summary">Visit our website host partner</string>
-    <string name="crdroid_buildserversponsor_summary">We recommend their servers if interested in one</string>
+    <string name="crdroid_buildserversponsor_summary">ئەگەر پێویستت بە سێرڤەر هەبوو، پێشنیاری سێرڤەرەکانی ئەوان دەکەین</string>
     <!-- Donate crDroid -->
     <string name="donate_crdroid_title">Support us</string>
     <string name="donate_crdroid_summary">Donate to support further development</string>
@@ -102,8 +102,8 @@
     <string name="unit_pixels">dp</string>
     <string name="unit_hz">hz</string>
     <!-- Clipboard -->
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <string name="copied_to_clipboard">لەبەرگیراوە بۆ تەختەنووس</string>
+    <string name="longpress_to_clipboard">ڕایبگرە بۆ لەبەرگرتنەوە</string>
     <!-- Hardware info -->
     <string name="platform_revision">Platform</string>
     <string name="total_ram">Total RAM</string>
@@ -187,8 +187,8 @@
     <string name="button_wake_summary">Wake device by pressing the button</string>
     <string name="volume_answer_call_title">Answer call</string>
     <string name="volume_answer_call_summary">Answer incoming calls by pressing the volume buttons</string>
-    <string name="click_partial_screenshot_title">Click to partial screenshot</string>
-    <string name="click_partial_screenshot_summary">Short click Volume Down and Power to take partial screenshot</string>
+    <string name="click_partial_screenshot_title">گرتەشاشەی بەشەکی</string>
+    <string name="click_partial_screenshot_summary">کورت داگرتن لەسەر دوگمەی نزمکردنی دەنگ و دوگمەی پاوەر بۆ گرتەشاشەیەکی بەشەکی</string>
     <!-- Key backlight -->
     <string name="button_backlight_title">Backlight</string>
     <string name="button_backlight_summary">Customize button backlight settings</string>
@@ -203,8 +203,8 @@
     <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
     <string name="backlight_summary_enabled">Enabled</string>
     <plurals name="backlight_timeout_time">
-        <item quantity="one"><xliff:g id="seconds">%d</xliff:g> second</item>
-        <item quantity="other"><xliff:g id="seconds">%d</xliff:g> seconds</item>
+        <item quantity="one"><xliff:g id="seconds">%d</xliff:g> چرکە</item>
+        <item quantity="other"><xliff:g id="seconds">%d</xliff:g> چرکە</item>
     </plurals>
     <!-- Power menu -->
     <string name="power_menu_title">Power menu</string>
@@ -233,12 +233,12 @@
     <string name="monet_title">Monet settings</string>
     <string name="monet_summary">Customize Monet theme engine</string>
     <!-- Monet Engine -->
-    <string name="monet_engine_custom_color_title">Accent color</string>
+    <string name="monet_engine_custom_color_title">ڕەنگی شێوە</string>
     <string name="monet_engine_custom_color_summary">Choose custom color for accent</string>
-    <string name="monet_engine_custom_bgcolor_title">Background color</string>
+    <string name="monet_engine_custom_bgcolor_title">ڕەنگی پاشبنەما</string>
     <string name="monet_engine_custom_bgcolor_summary">Choose custom color for background</string>
     <string name="monet_engine_color_override_title">Custom color</string>
-    <string name="monet_engine_luminance_factor_title">Luminance</string>
+    <string name="monet_engine_luminance_factor_title">ڕووناکی</string>
     <string name="monet_engine_luminance_factor_summary">Higher values produce brighter colors</string>
     <string name="monet_engine_chroma_factor_title">Chroma factor</string>
     <string name="monet_engine_chroma_factor_summary">Higher values produce stronger colors</string>
@@ -267,7 +267,7 @@
     <string name="doze_vibrate_summary">Duration to vibrate when pulsing notifications</string>
     <string name="sensor_warning_message">Settings based on sensors are subject to hardware compatibility. Enabling sensors for ambient display may increase power drain.</string>
     <!-- Edge light -->
-    <string name="edge_light_title">Edge light</string>
+    <string name="edge_light_title">ڕووناکی لێواری شاشە</string>
     <string name="edge_light_summary">Light up the side edges of the screen on notification pulse</string>
     <string name="edge_light_always_trigger_on_pulse_title">Always trigger on pulse</string>
     <string name="edge_light_always_trigger_on_pulse_summary">Whether to show edge light whenever ambient display is shown and not just for notifications</string>
@@ -562,7 +562,7 @@
     <string name="crdroid_license_title">crDroid legal</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Brightness slider</string>
-    <string name="qs_show_brightness_slider_title">When to show</string>
+    <string name="qs_show_brightness_slider_title">تەختەی ڕۆشنایی</string>
     <string name="qs_show_brightness_slider_never">Never show</string>
     <string name="qs_show_brightness_slider_expanded">Show when expanded</string>
     <string name="qs_show_brightness_slider_always">Show always</string>
@@ -952,7 +952,7 @@
     <string name="lockscreen_weather_enabled_info">Requires weather service to be enabled</string>
     <string name="lockscreen_weather_location_title">Weather location</string>
     <string name="lockscreen_weather_location_summary">Display current weather location</string>
-    <string name="lockscreen_weather_style_title">Pixel style</string>
+    <string name="lockscreen_weather_style_title">شێوازی پێکسڵ</string>
     <string name="lockscreen_weather_style_summary">Display weather as separate row</string>
     <!-- Adaptive Playback -->
     <string name="adaptive_playback_title">کارپێکەری گونجێنەر</string>
@@ -989,7 +989,7 @@
     <string name="status_bar_logo_style_windows">ویندۆز</string>
     <string name="status_bar_logo_style_xbox">Xbox</string>
     <string name="status_bar_logo_style_ghost">تارمایی</string>
-    <string name="status_bar_logo_style_ninja">Ninja</string>
+    <string name="status_bar_logo_style_ninja">نینجا</string>
     <string name="status_bar_logo_style_robot">ڕۆبۆت</string>
     <string name="status_bar_logo_style_ironman">Iron Man</string>
     <string name="status_bar_logo_style_captain_america">Captain America</string>
@@ -1004,11 +1004,11 @@
     <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
     <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
-    <string name="sensor_block_app_picker_title">Block sensors for these apps</string>
-    <string name="add_sensor_block_package_title">Add apps for Sensor block</string>
-    <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors will be blocked for these apps</string>
+    <string name="sensor_block_title">سڕکردنی هەستەوەر بۆ-پاکێج</string>
+    <string name="sensor_block_summary">سڕکردنی گەیشتن بە هەنێ هەستەوەر لەلایەن هەنێ ئەپ بۆ پاراستنی زیاتری ووزە</string>
+    <string name="sensor_block_app_picker_title">سڕکردنی هەستەوەرەکان بۆ ئەم ئەپانە</string>
+    <string name="add_sensor_block_package_title">زیاکردنی ئەپ بۆ سڕکردنی هەستەوەر</string>
+    <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors سڕ دەکرێن بۆ ئەم ئەپانە</string>
     <!-- Vibration patterns -->
     <string name="vibration_pattern_title">Ringtone vibration pattern</string>
     <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
@@ -1030,11 +1030,14 @@
     <!-- Netflix Spoof -->
     <string name="netflix_spoof_title">Netflix spoof</string>
     <string name="netflix_spoof_summary">Spoof your device as different model for Netflix</string>
+    <!-- Google Play Integrity Spoof -->
+    <string name="pi_spoof_title">Google Play Integrity spoof</string>
+    <string name="pi_spoof_summary">Spoof your device as different model for Google Play Integrity</string>
     <!-- Captive portal -->
     <string name="captive_portal_title">Connectivity check</string>
     <string name="captive_portal_summary">Determine if the device can connect to the internet, by contacting Google. Also used to detect captive portals.</string>
     <!-- Battery stats reset -->
-    <string name="battery_stats_reset">Reset stats?</string>
+    <string name="battery_stats_reset">گێڕانەوەی ئامار?</string>
     <string name="battery_stats_message">Battery usage data will be lost</string>
     <!-- Parallel space -->
     <string name="laboratory_parallel_space_title">Parallel space</string>

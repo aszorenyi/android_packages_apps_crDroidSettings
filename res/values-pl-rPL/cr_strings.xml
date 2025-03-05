@@ -184,7 +184,7 @@
     <string name="swap_volume_buttons_title">Zamiana orientacji</string>
     <string name="swap_volume_buttons_summary">Zamieniaj przyciski głośności po obróceniu ekranu</string>
     <string name="button_wake_title">Wybudź urządzenie</string>
-    <string name="button_wake_summary">Wybudź urządzenie poprzez naciśnięcie przycisku</string>
+    <string name="button_wake_summary">Wybudzaj urządzenie poprzez naciśnięcie przycisku</string>
     <string name="volume_answer_call_title">Odbieranie połączeń</string>
     <string name="volume_answer_call_summary">Odbieranie połączenia przychodzącego za pomocą przycisków głośności</string>
     <string name="click_partial_screenshot_title">Częściowy zrzut ekranu</string>
@@ -724,7 +724,7 @@
     <string name="display_cutout_force_fullscreen_summary">Wymuś na aplikacjach ignorowanie przestrzeni wcięcia</string>
     <string name="display_cutout_force_fullscreen_no_apps">Brak aplikacji</string>
     <!-- Unlimited google photos storage -->
-    <string name="use_photos_spoof_title">Nielimitowane miejsce w aplikacji Google Zdjęcia</string>
+    <string name="use_photos_spoof_title">Nielimitowane miejsce w aplikacji Zdjęcia Google</string>
     <string name="use_photos_spoof_summary">Sprawia, że twoje urządzenie jest postrzegane jako Pixel XL, aby odblokować nielimitowane miejsce na kopię zdjęć</string>
     <!-- Unlock FPS for specific games -->
     <string name="use_games_spoof_title">Odblokuj wyższą liczbę kl./s w grach</string>
@@ -845,7 +845,7 @@
     <string name="columbus_gesture_training_finished_title">Skonfigurowano Szybkie Dotknięcie</string>
     <string name="columbus_gesture_training_intro_text_accidental">Dwukrotne stuknięcie w tył swojego urządzenia to nowy sposób na szybkie uruchomienie Asystenta. Możesz dostosować ten gest w ustawieniach.</string>
     <string name="columbus_gesture_training_intro_text_suw">Po dwóch stuknięciach możesz zrobić zrzut ekranu, pokazać powiadomienia lub zrobić coś innego.</string>
-    <string name="columbus_gesture_training_intro_title">Szybkie Dotknięcie dla szybkich akcji</string>
+    <string name="columbus_gesture_training_intro_title">Szybkie dotknięcie dla szybkich akcji</string>
     <string name="columbus_gesture_training_launch_no_selection_error">Proszę wybrać aplikację do otwarcia</string>
     <string name="columbus_gesture_training_launch_text">Wybierz aplikację, którą chcesz otworzyć podczas używania Szybkiego Dotknięcia.</string>
     <string name="columbus_gesture_training_launch_title">Wybierz aplikację do otwarcia</string>
@@ -1032,8 +1032,11 @@
     <string name="floating_rotation_button_title">Pływający przycisk obracania</string>
     <string name="floating_rotation_button_summary">Pokaż pływający przycisk obracania po obróceniu urządzenia</string>
     <!-- Netflix Spoof -->
-    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_title">Podróbka Netflixa</string>
     <string name="netflix_spoof_summary">Podszywanie się pod inny model urządzenia dla Netflixa</string>
+    <!-- Google Play Integrity Spoof -->
+    <string name="pi_spoof_title">Podrobiona integralność Google Play</string>
+    <string name="pi_spoof_summary">Podszywanie się pod inny model urządzenia, aby spełnić warunki integralności Google Play</string>
     <!-- Captive portal -->
     <string name="captive_portal_title">Kontrola połączenia</string>
     <string name="captive_portal_summary">Określ, czy urządzenie może połączyć się z internetem, poprzez kontakt z Google. Używane również do wykrywania portali typu captive.</string>
